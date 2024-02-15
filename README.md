@@ -1,4 +1,4 @@
-# DreamOfButterfly
+# myWGAN-GP (Wasserstein GAN with Gradient Penalty)
 
 ### Citation
 - [Butterfly Dataset](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification)
